@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - I'm super interested in [Your Interests, e.g., APIs, databases, server-side logic]
 -->
-I'm Cesar Rea, a software developer who loves tinkering with code and building cool stuff. I'm all about backend development and I'm on the lookout for a job in that space. You'll find a bunch of my projects and open-source contributions here. I'm always up for learning something new. Let's connect and create something extraordinary together!
+I'm Cesar Rea, a software developer who loves tinkering with code and building cool stuff. I'm all about backend development and I'm on the lookout for a job in that space. You'll find a bunch of my projects here. I'm always up for learning something new. If you're hiring, let's connect and create something extraordinary together!
