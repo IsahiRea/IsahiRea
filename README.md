@@ -1,18 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Cesar 👋
 
-<!--
-**IsahiRea/IsahiRea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate software developer specializing in frontend development with a strong focus on building responsive, user-friendly web applications. I love creating elegant solutions to complex problems, and I'm always eager to learn new technologies. Currently seeking opportunities to contribute to innovative projects and collaborate with talented teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- I'm super interested in [Your Interests, e.g., APIs, databases, server-side logic]
--->
-I'm Cesar Rea, a software developer who loves to code and build cool stuff. I'm all about frontend development, and I'm on the lookout for a job in that space. You'll find a bunch of my projects here. I'm always up for learning something new. If you're hiring, let's connect and create something extraordinary together!
+## 💻 Technical Skills
+
+**Languages:**
+JavaScript, HTML, CSS, Python, SQL
+
+**Frameworks & Libraries:**
+React, Node.js, Express
+
+**Tools & Technologies:**
+Git, GitHub, VS Code, Figma, Postman, MongoDB, Firebase
+
+**Currently Learning:**
+TypeScript, Next.js
+
+## 🌱 What I'm Working On
+
+- Contributing to open-source projects focused on web accessibility
+- Deepening my knowledge of TypeScript and modern design patterns
+
+## 📫 Let's Connect
+
+- **Email:** Isahi.rea@live.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/cesar-rea-705143320/)
+
+## 🎯 What I'm Looking For
+
+I'm interested in frontend developer roles where I can work on challenging projects, collaborate with experienced developers, and continue growing my skills. I'm particularly excited about opportunities in fintech, e-commerce, or SaaS products.
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IsahiRea&show_icons=true&theme=dark)
+
+---
+
+💡 *Open to collaboration on interesting projects! Feel free to reach out if you'd like to work together.*
