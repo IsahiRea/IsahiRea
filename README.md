@@ -13,14 +13,13 @@ JavaScript, HTML, CSS, Python, SQL
 React, Node.js, Express
 
 **Tools & Technologies:**
-Git, GitHub, VS Code, Figma, Postman, MongoDB, Firebase
+Git, GitHub, VS Code, Figma, Postman, MongoDB, Firebase, Supabase
 
 **Currently Learning:**
 TypeScript, Next.js
 
 ## 🌱 What I'm Working On
 
-- Contributing to open-source projects focused on web accessibility
 - Deepening my knowledge of TypeScript and modern design patterns
 
 ## 📊 GitHub Stats
