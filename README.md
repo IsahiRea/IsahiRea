@@ -1,23 +1,33 @@
 # Hi there, I'm Cesar
 
 ## About Me
-
-I'm a software developer specializing in frontend development with a strong focus on building responsive, user-friendly web applications. I'm always eager to learn new technologies, and I am currently seeking opportunities to contribute to innovative projects and collaborate with talented teams.
+I'm an IT professional transitioning into IT Support, bringing strong technical troubleshooting skills and a track record of helping users solve problems. With a background in software development, I understand systems from the ground up and can communicate technical concepts clearly to non-technical users. I'm seeking an IT Support Specialist role where I can leverage my technical expertise to provide excellent customer service and resolve issues efficiently.
 
 ## Technical Skills
 
-**Languages:**
-JavaScript/TypeScript, HTML, CSS, Python, SQL, Go, C/C++
+**Operating Systems & Platforms:**
+Windows, Linux/Ubuntu
 
-**Frameworks & Libraries:**
-React, Node.js, Express, Next.js
+**Technical Support Tools:**
+Remote Desktop, Ticketing Systems, Documentation Tools
 
-**Tools & Technologies:**
-Git, GitHub, VS Code, Figma, Postman, MongoDB, Firebase, Supabase, Jenkins, AWS
+**Programming & Scripting:**
+Python (automation), JavaScript, SQL (database queries), Bash/Shell scripting
+
+**Cloud & Infrastructure:**
+AWS, Firebase, MongoDB, Supabase
+
+**Development Tools:**
+Git/GitHub, VS Code, Postman, Jenkins
+
+**Networking & Databases:**
+Basic networking concepts, SQL databases, API troubleshooting
 
 **Currently Learning:**
-Tailwind, Styled Components
+CompTIA A+ certification preparation, Active Directory, Windows Server administration
 
 ## What I'm Working On
-
-- Deepening my knowledge of modern software design patterns and system design
+- Preparing for CompTIA A+ certification
+- Building a home lab environment to practice troubleshooting and system administration
+- Developing technical documentation and knowledge base articles
+- Learning ITIL best practices for IT service management
