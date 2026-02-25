@@ -12,7 +12,7 @@ Windows, Linux/Ubuntu
 Remote Desktop, Ticketing Systems, Documentation Tools
 
 **Programming & Scripting:**
-Python (automation), JavaScript, SQL (database queries), Bash/Shell scripting
+Python (automation), JavaScript, SQL (database queries), Bash/Shell scripting, C/C++
 
 **Cloud & Infrastructure:**
 AWS, Firebase, MongoDB, Supabase
